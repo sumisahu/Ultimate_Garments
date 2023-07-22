@@ -1,0 +1,14 @@
+Categories
+===========
+categoryid
+categoryname
+categoryicon
+
+
+Subcategory
+==============
+subcategories
+categoryid
+subcategoryid
+subcategoryname
+subcategoryicon
